@@ -2,7 +2,7 @@
 <br/>
 Ici vous trouverez tous les modules que j'ai crée :<br/>
 <br/>
-# <ins>Des modules de kits :</ins><br/>
+## <ins>Des modules de kits :</ins><br/>
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a> : des kits classiques.<br/>
 - <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits très originaux.<br/>
 <br/>
