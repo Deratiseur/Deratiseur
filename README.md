@@ -2,11 +2,11 @@
 
 Ici vous trouverez tous les modules que j'ai crée :  
 
-## <ins>Des mods de kits ou de pack de kits :</ins>
+# <ins>Des mods de kits ou de pack de kits :</ins>
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a> : des kits classiques.  
 - <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits très originaux.  
   
-## <ins>Des mods de kits ou de pack de kits :</ins>
+# <ins>Des mods de kits ou de pack de kits :</ins>
 Illumisfhityroc : Loue des objets temporaires +4.  
 Au bonheur du tireur : propose tout ce qu'il faut pour les tireurs de tout poil.  
 Todd, le super Gars Testeur : propose les objets de Morrowind et Arcanum.  
