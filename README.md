@@ -22,7 +22,16 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Tatoos>Illo le tatoueur</a> : des tomes version ++.  
   
 ## <ins>Un mod de gameplay :</ins>  
-- <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.
+- <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.  
+ 
+## <ins>Un mod de quête :</ins>  
+- <a href=https://github.com//Deratiseur/DAWAP>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
+  
+## <ins>Un mod pensé pour les moddeurs :</ins>  
+- <a href=https://github.com//Deratiseur/DAWAP>Thingies-for-modders</a> : facilite les tests ingame.  
+
+## <ins>Un mod pensé pour d'autres mods :</ins>  
+- <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a> : corrige les incohérences dans d'autres mods.
 
 -----------------------------  
 -----------------------------  
