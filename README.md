@@ -39,33 +39,33 @@ Ici vous trouverez tous les modules que j'ai crée :
 
 Here you will find all the modules I have created:
 
-## <ins>Des mods de kits ou de pack de kits:</ins>
+## <ins>Kit mods:</ins>
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a>: conventional kits.  
 - <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a>: special kits.  
   
-## <ins>Des mods de kits ou de pack de kits:</ins>
+## <ins>Shop mods:</ins>
 - <a href=https://github.com//Deratiseur/DAWAP>Illumisfhityroc</a>: temporary items +4 in BGEE.  
 - <a href=https://github.com//Deratiseur/DAWAP>Au bonheur du tireur</a>: everything you need for shooters/throwers.  
 - <a href=https://github.com//Deratiseur/DAWAP>Todd, le super Gars Testeur</a>: all items from Morrowind and Arcanum.  
 - <a href=https://github.com//Deratiseur/DAWAP>L'interplan</a>: more than 100 original items, over 120 new spells and a blacksmith. (french only)  
   
-## <ins>Des mods de pnjs suiveurs:</ins>  
+## <ins>Follower pnj mods:</ins>  
 - <a href=https://github.com//Deratiseur/DAWAP>Jazon le revenant</a>: the 7th companion that hits hard, resists everything and follows you everywhere.  
 - <a href=https://github.com//Deratiseur/DAWAP>Follower_it</a>: transform any companion into a 7th, 8th, 9th (unlimited) companion.  
   
-## <ins>Des mods pour gagner en puissances:</ins>
+## <ins>Mods for more power:</ins>
 - <a href=https://github.com//Deratiseur/DAWAP>Kurosaï le combineur</a>: combine three +x items to make one x+1 item.  
 - <a href=https://github.com//Deratiseur/DAWAP>Oops le magicien</a>: exchange spell scrolls for special abilities.  
 - <a href=https://github.com//Deratiseur/DAWAP>Illo le tatoueur</a>: ++ version tomes.  
   
-## <ins>Un mod de gameplay:</ins>  
+## <ins>A gameplay mod:</ins>  
 - <a href=https://github.com//Deratiseur/DAWAP>Autorest</a>: rest is a bygone. Optionally, death too. 
   
-## <ins>Un mod de quête:</ins>  
+## <ins>A quest mod:</ins>  
 - <a href=https://github.com//Deratiseur/DAWAP>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
   
-## <ins>Un mod pensé pour les moddeurs:</ins>  
+## <ins>A mod designed for modders:</ins>  
 - <a href=https://github.com//Deratiseur/DAWAP>Thingies-for-modders</a>: facilitates in-game testing.  
 
-## <ins>Un mod pensé pour d'autres mods:</ins>  
+## <ins>A mod designed for other mods:</ins>  
 - <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a>: corrects inconsistencies in other mods.
