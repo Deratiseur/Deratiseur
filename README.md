@@ -4,7 +4,7 @@ Ici vous trouverez tous les modules que j'ai crée :
 
 ## <ins>Des mods de kits :</ins>
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a> : des kits classiques.  
-- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits particuliers.  
+- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits étonnants.  
   
 ## <ins>Des mods de magasins :</ins>
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a> : des objets temporaires +4 dans BGEE.  
