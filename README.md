@@ -25,10 +25,10 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.  
  
 ## <ins>Un mod de quête :</ins>  
-- <a href=https://github.com//Deratiseur/DAWAP>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
+- <a href=https://github.com//Deratiseur/OgreP>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
   
 ## <ins>Un mod pensé pour les moddeurs :</ins>  
-- <a href=https://github.com//Deratiseur/DAWAP>Thingies-for-modders</a> : facilite les tests ingame.  
+- <a href=https://github.com//Deratiseur/Thingies-for-modders>Bidules pour les moddeurs</a> : facilite les tests ingame.  
 
 ## <ins>Un mod pensé pour d'autres mods :</ins>  
 - <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a> : corrige les incohérences dans d'autres mods.
@@ -44,28 +44,28 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a>: special kits.  
   
 ## <ins>Shop mods:</ins>
-- <a href=https://github.com//Deratiseur/DAWAP>Illumisfhityroc</a>: temporary items +4 in BGEE.  
-- <a href=https://github.com//Deratiseur/DAWAP>Au bonheur du tireur</a>: everything you need for shooters/throwers.  
-- <a href=https://github.com//Deratiseur/DAWAP>Todd, le super Gars Testeur</a>: all items from Morrowind and Arcanum.  
-- <a href=https://github.com//Deratiseur/DAWAP>L'interplan</a>: more than 100 original items, over 120 new spells and a blacksmith. (french only)  
+- <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a>: temporary items +4 in BGEE.  
+- <a href=https://github.com//Deratiseur/Archery>Shooter's paradise</a>: everything you need for shooters/throwers.  
+- <a href=https://github.com//Deratiseur/Todd>Todd the super tester guy</a>: all items from Morrowind and Arcanum.  
+- <a href=https://github.com//Deratiseur/Interplan>L'interplan</a>: more than 100 original items, over 120 new spells and a blacksmith. (french only)  
   
 ## <ins>Follower pnj mods:</ins>  
-- <a href=https://github.com//Deratiseur/DAWAP>Jazon le revenant</a>: the 7th companion that hits hard, resists everything and follows you everywhere.  
-- <a href=https://github.com//Deratiseur/DAWAP>Follower_it</a>: transform any companion into a 7th, 8th, 9th (unlimited) companion.  
+- <a href=https://github.com//Deratiseur/Jazon>Jazon the revenant</a>: the 7th companion that hits hard, resists everything and follows you everywhere.  
+- <a href=https://github.com//Deratiseur/Follower_It>Follower_it</a>: transform any companion into a 7th, 8th, 9th (unlimited) companion.  
   
 ## <ins>Mods for more power:</ins>
-- <a href=https://github.com//Deratiseur/DAWAP>Kurosaï le combineur</a>: combine three +x items to make one x+1 item.  
-- <a href=https://github.com//Deratiseur/DAWAP>Oops le magicien</a>: exchange spell scrolls for special abilities.  
-- <a href=https://github.com//Deratiseur/DAWAP>Illo le tatoueur</a>: ++ version tomes.  
+- <a href=https://github.com//Deratiseur/Combino>Kurosaï the combiner</a>: combine three +x items to make one x+1 item.  
+- <a href=https://github.com//Deratiseur/Oops>Oops the magician</a>: exchange spell scrolls for special abilities.  
+- <a href=https://github.com//Deratiseur/Tatoos>Illo the Tattoo artist</a>: ++ version tomes.  
   
 ## <ins>A gameplay mod:</ins>  
-- <a href=https://github.com//Deratiseur/DAWAP>Autorest</a>: rest is a bygone. Optionally, death too. 
+- <a href=https://github.com//Deratiseur/Autorest>Autorest</a>: rest is bygone. Optionally, death too. 
   
 ## <ins>A quest mod:</ins>  
-- <a href=https://github.com//Deratiseur/DAWAP>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
+- <a href=https://github.com//Deratiseur/Autorest>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
   
 ## <ins>A mod designed for modders:</ins>  
-- <a href=https://github.com//Deratiseur/DAWAP>Thingies-for-modders</a>: facilitates in-game testing.  
+- <a href=https://github.com//Deratiseur/Thingies-for-modders>Thingies for modders</a>: facilitates in-game testing.  
 
 ## <ins>A mod designed for other mods:</ins>  
 - <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a>: corrects inconsistencies in other mods.
