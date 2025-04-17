@@ -74,4 +74,4 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a>: corrects inconsistencies in other mods.
 
 ## <ins>You want more mods?</ins> 
-On the <a href=https://github.com/Plutonium-X>Plutonium_X's</a> repo (in french) you'll find an anthology of old mods for BG2 updated for BG2EE and EET.
+On the <a href=https://github.com/Plutonium-X>Plutonium_X</a>'s repo (in french) you'll find an anthology of old mods for BG2 updated for BG2EE and EET.
