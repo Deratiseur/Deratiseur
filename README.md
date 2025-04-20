@@ -44,7 +44,7 @@ Here you will find all the modules I have created:
 
 ## <ins>Kit mods:</ins>
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a>: conventional kits.  
-- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a>: special kits.  
+- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a>: uncommon kits.  
   
 ## <ins>Shop mods:</ins>
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a>: temporary items +4 in BGEE.  
