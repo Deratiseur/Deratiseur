@@ -25,7 +25,7 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.  
  
 ## <ins>Un mod de quête :</ins>  
-- <a href=https://github.com//Deratiseur/OgreP>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
+- <a href=https://github.com//Deratiseur/Ogre>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
   
 ## <ins>Un mod pensé pour les moddeurs :</ins>  
 - <a href=https://github.com//Deratiseur/Thingies>Bidules pour les moddeurs</a> : facilite les tests ingame.  
@@ -65,7 +65,7 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/Autorest>Autorest</a>: rest is bygone. Optionally, death too. 
   
 ## <ins>A quest mod:</ins>  
-- <a href=https://github.com//Deratiseur/Autorest>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
+- <a href=https://github.com//Deratiseur/Ogre>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
   
 ## <ins>A mod designed for modders:</ins>  
 - <a href=https://github.com//Deratiseur/Thingies>Thingies for modders</a>: facilitates in-game testing.  
