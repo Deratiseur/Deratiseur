@@ -13,7 +13,8 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Interplan>L'Interplan</a> : plus de 100 objets originaux, plus de 120 nouveaux sorts et un forgeron.  
   
 ## <ins>Des mods de pnjs suiveurs :</ins>  
-- <a href=https://github.com//Deratiseur/Jazon>Jazon le revenant</a> : le 7ème compagnon qui tape fort, résiste à tout et vous suit partout.  
+- <a href=https://github.com//Deratiseur/Jazon>Jazon le revenant</a> : le 7ème compagnon qui tape fort, résiste à tout et vous suit partout.
+- <a href=https://github.com//Deratiseur/Gilbertus>Kri'Binn l'araignée semi-mécanique</a> : le 7ème compagnon invulnérable (ou presque) qui peut consommer des potions.
 - <a href=https://github.com//Deratiseur/Follower_It>Follower_It</a> : transformez n'importe quel compagnon en 7ème, 8ème, 9ème (sans limite) compagnon.  
   
 ## <ins>Des mods pour gagner en puissances :</ins>
@@ -53,7 +54,8 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/Interplan>The Interplane</a>: more than 100 original items, over 120 new spells and a blacksmith. (french only)  
   
 ## <ins>Follower pnj mods:</ins>  
-- <a href=https://github.com//Deratiseur/Jazon>Jazon the revenant</a>: the 7th companion that hits hard, resists everything and follows you everywhere.  
+- <a href=https://github.com//Deratiseur/Jazon>Jazon the revenant</a>: the 7th companion that hits hard, resists everything and follows you everywhere.
+- <a href=https://github.com//Deratiseur/Gilbertus>Kri'Binn the half-mechanical spider</a>: the 7th invulnerable (or almost) companion who can consume potions.
 - <a href=https://github.com//Deratiseur/Follower_It>Follower_it</a>: transform any companion into a 7th, 8th, 9th (unlimited) companion.  
   
 ## <ins>Mods for more power:</ins>
