@@ -3,8 +3,9 @@
 Ici vous trouverez tous les modules que j'ai crée :  
 
 ## <ins>Des mods de kits :</ins>
-- <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a> : des kits classiques.  
-- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits étonnants.  
+- <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a> : des kits classiques.
+- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits étonnants.
+- <a href=https://github.com//Deratiseur/CrossClass>CrossClass powerkits</a> : des combinaisons de kit vanilla pour des résultats cheatés.  
   
 ## <ins>Des mods de magasins :</ins>
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a> : des objets temporaires +4 dans BGEE et IWDEE.  
@@ -45,7 +46,8 @@ Here you will find all the modules I have created:
 
 ## <ins>Kit mods:</ins>
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a>: conventional kits.  
-- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a>: uncommon kits.  
+- <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a>: uncommon kits.
+- <a href=https://github.com//Deratiseur/CrossClass>CrossClass powerkits</a>: vanilla kit combinations for cheated results.
   
 ## <ins>Shop mods:</ins>
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a>: temporary items +4 in BGEE and IWDEE.  
