@@ -18,7 +18,7 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Gilbertus>Kri'Binn l'araignée semi-mécanique</a> : le 7ème compagnon invulnérable (ou presque) qui peut consommer des potions.
 - <a href=https://github.com//Deratiseur/Follower_It>Follower_It</a> : transformez n'importe quel compagnon en 7ème, 8ème, 9ème (sans limite) compagnon.  
   
-## <ins>Des mods pour gagner en puissances :</ins>
+## <ins>Des mods pour gagner en puissance :</ins>
 - <a href=https://github.com//Deratiseur/Combino>Kurosaï le combineur</a> : combinez trois objets +x pour en faire un objet x+1.  
 - <a href=https://github.com//Deratiseur/Oops>Oops le magicien</a> : échangez des parchemins de sorts contre des capacités spéciales.  
 - <a href=https://github.com//Deratiseur/Tatoos>Illo le tatoueur</a> : des tomes version ++.  
