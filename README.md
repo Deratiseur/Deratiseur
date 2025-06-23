@@ -23,8 +23,9 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Oops>Oops le magicien</a> : échangez des parchemins de sorts contre des capacités spéciales.  
 - <a href=https://github.com//Deratiseur/Tatoos>Illo le tatoueur</a> : des tomes version ++.  
   
-## <ins>Un mod de gameplay :</ins>  
-- <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.  
+## <ins>Des mods de gameplay :</ins>  
+- <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.
+- <a href=https://github.com//Deratiseur/Levelling>Levelling Changer</a> : Changez les tables d'xp des classes pour progresser + ou - vite.
  
 ## <ins>Un mod de quête :</ins>  
 - <a href=https://github.com//Deratiseur/Ogre>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
@@ -65,8 +66,9 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/Oops>Oops the magician</a>: exchange spell scrolls for special abilities.  
 - <a href=https://github.com//Deratiseur/Tatoos>Illo the Tattoo artist</a>: ++ version tomes.  
   
-## <ins>A gameplay mod:</ins>  
-- <a href=https://github.com//Deratiseur/Autorest>Autorest</a>: rest is bygone. Optionally, death too. 
+## <ins>Mods for change the gameplay :</ins>  
+- <a href=https://github.com//Deratiseur/Autorest>Autorest</a>: rest is bygone. Optionally, death too.
+- <a href=https://github.com//Deratiseur/Levelling>Levelling Changer</a>: Change class xp tables to progress faster or slower.
   
 ## <ins>A quest mod:</ins>  
 - <a href=https://github.com//Deratiseur/Ogre>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
