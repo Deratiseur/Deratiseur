@@ -11,6 +11,7 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a> : des objets temporaires +4 dans BGEE et IWDEE.  
 - <a href=https://github.com//Deratiseur/Archery>Au bonheur du tireur</a> : tout ce qu'il faut pour les tireurs/lanceurs.  
 - <a href=https://github.com//Deratiseur/Todd>Todd, le super Gars Testeur</a> : tous les objets de Morrowind et Arcanum.  
+- <a href=https://github.com//Deratiseur/IWD_Bonus>IWD Bonus Merchants</a> : Deirdre et Joluv dans IWDEE.
 - <a href=https://github.com//Deratiseur/Interplan>L'Interplan</a> : plus de 100 objets originaux, plus de 120 nouveaux sorts et un forgeron.  
   
 ## <ins>Des mods de pnjs suiveurs :</ins>  
@@ -54,6 +55,7 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a>: temporary items +4 in BGEE and IWDEE.  
 - <a href=https://github.com//Deratiseur/Archery>Shooter's paradise</a>: everything you need for shooters/throwers.  
 - <a href=https://github.com//Deratiseur/Todd>Todd the super tester guy</a>: all items from Morrowind and Arcanum.  
+- <a href=https://github.com//Deratiseur/IWD_Bonus>IWD Bonus Merchants</a> : Deirdre and Joluv in IWDEE. 
 - <a href=https://github.com//Deratiseur/Interplan>The Interplane</a>: more than 100 original items, over 120 new spells and a blacksmith. (french only)  
   
 ## <ins>Follower pnj mods:</ins>  
