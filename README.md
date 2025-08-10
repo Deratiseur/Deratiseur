@@ -30,7 +30,7 @@ Ici vous trouverez tous les modules que j'ai crée :
 
 ## <ins>Des mods pensés pour d'autres mods :</ins>  
 - <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a> : corrige les incohérences dans d'autres mods.
-- <a href=https://github.com//Deratiseur/IWD_Convetiseur>IWDisateur</a> : permet d'installer sur IWDEE des mods prévus pour BG2EE.
+- <a href=https://github.com//Deratiseur/IWD_Convertiseur>IWDisateur</a> : permet d'installer sur IWDEE des mods prévus pour BG2EE.
  
 ## <ins>Un mod de quête :</ins>  
 - <a href=https://github.com//Deratiseur/Ogre>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
@@ -75,7 +75,7 @@ Here you will find all the modules I have created:
 
 ## <ins>mods designed for other mods:</ins>  
 - <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a>: corrects inconsistencies in other mods.
-- <a href=https://github.com//Deratiseur/IWD_Convetiseur>IWDisateur</a> : allows installation on IWDEE of mods designed for BG2EE.
+- <a href=https://github.com//Deratiseur/IWD_Convertiseur>IWDisateur</a> : allows installation on IWDEE of mods designed for BG2EE.
   
 ## <ins>A quest mod:</ins>  
 - <a href=https://github.com//Deratiseur/Ogre>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
