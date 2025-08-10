@@ -27,15 +27,16 @@ Ici vous trouverez tous les modules que j'ai crée :
 ## <ins>Des mods de gameplay :</ins>  
 - <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.
 - <a href=https://github.com//Deratiseur/Levelling>Levelling Changer</a> : Changez les tables d'xp des classes pour progresser + ou - vite.
+
+## <ins>Des mods pensés pour d'autres mods :</ins>  
+- <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a> : corrige les incohérences dans d'autres mods.
+- <a href=https://github.com//Deratiseur/IWD_Convetiseur>IWDisateur</a> : permet d'installer sur IWDEE des mods prévus pour BG2EE.
  
 ## <ins>Un mod de quête :</ins>  
 - <a href=https://github.com//Deratiseur/Ogre>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
   
 ## <ins>Un mod pensé pour les moddeurs :</ins>  
 - <a href=https://github.com//Deratiseur/Thingies>Bidules pour les moddeurs</a> : facilite les tests ingame.  
-
-## <ins>Un mod pensé pour d'autres mods :</ins>  
-- <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a> : corrige les incohérences dans d'autres mods.
 
 ## <ins>Vous voulez plus de mods ?</ins>  
 Sur le repos de <a href=https://github.com/Plutonium-X>Plutonium_X</a> vous trouverez un florilège d'anciens mods pour BG2 mis à jour pour BG2EE et EET.
@@ -71,15 +72,16 @@ Here you will find all the modules I have created:
 ## <ins>Mods for change the gameplay :</ins>  
 - <a href=https://github.com//Deratiseur/Autorest>Autorest</a>: rest is bygone. Optionally, death too.
 - <a href=https://github.com//Deratiseur/Levelling>Levelling Changer</a>: Change class xp tables to progress faster or slower.
+
+## <ins>mods designed for other mods:</ins>  
+- <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a>: corrects inconsistencies in other mods.
+- <a href=https://github.com//Deratiseur/IWD_Convetiseur>IWDisateur</a> : allows installation on IWDEE of mods designed for BG2EE.
   
 ## <ins>A quest mod:</ins>  
 - <a href=https://github.com//Deratiseur/Ogre>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
   
 ## <ins>A mod designed for modders:</ins>  
 - <a href=https://github.com//Deratiseur/Thingies>Thingies for modders</a>: facilitates in-game testing.  
-
-## <ins>A mod designed for other mods:</ins>  
-- <a href=https://github.com//Deratiseur/Mods_Tweaker>Mods_Tweaker</a>: corrects inconsistencies in other mods.
 
 ## <ins>You want more mods?</ins> 
 On the <a href=https://github.com/Plutonium-X>Plutonium_X</a>'s repo (in french) you'll find an anthology of old mods for BG2 updated for BG2EE and EET.
