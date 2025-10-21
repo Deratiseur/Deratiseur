@@ -33,7 +33,10 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/IWD_Convertiseur>IWDisateur</a> : permet d'installer sur IWDEE des mods prévus pour BG2EE.
  
 ## <ins>Un mod de quête :</ins>  
-- <a href=https://github.com//Deratiseur/Ogre>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.  
+- <a href=https://github.com//Deratiseur/Ogre>L'ogre et le Gnome, une histoire de bleu</a> : une petite quête qui vous fera chercher dans tout SOA.
+
+## <ins>Un mod d'arènes :</ins>  
+- <a href=https://github.com//Deratiseur/Defis>Défis insurmontables de Telim'Gar</a> : une succession d'arènes dans lesquelles vous devez tuer le boss avant d'accéder à l'arène finale.
   
 ## <ins>Un mod pensé pour les moddeurs :</ins>  
 - <a href=https://github.com//Deratiseur/Thingies>Bidules pour les moddeurs</a> : facilite les tests ingame.  
