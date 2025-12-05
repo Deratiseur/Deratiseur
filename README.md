@@ -13,10 +13,13 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Todd>Todd, le super Gars Testeur</a> : tous les objets de Morrowind et Arcanum.  
 - <a href=https://github.com//Deratiseur/IWD_Bonus>IWD Bonus Merchants</a> : Deirdre et Joluv dans IWDEE.
 
-## <ins>Un madule complet :</ins>
+## <ins>Un module complet :</ins>
 - <a href=https://github.com//Deratiseur/Interplan>L'Interplan</a> :
-  * plus de 100 objets originaux, plus de 130 nouveaux sorts et plus encore.
-  *  plus de 100 objets originaux, plus de 130 nouveaux sorts et plus encore.
+  * 170 nouveaux objets
+  * 160 nouveaux sorts
+  * 75 nouvelles potions
+  * 45 recettes de forgeron
+  * des secrets, des surprises et encore d'autres choses.
 
 ## <ins>Des mods de pnjs suiveurs :</ins>  
 - <a href=https://github.com//Deratiseur/Jazon>Jazon le revenant</a> : le 7ème compagnon qui tape fort, résiste à tout et vous suit partout.
@@ -64,8 +67,15 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/Archery>Shooter's paradise</a>: everything you need for shooters/throwers.  
 - <a href=https://github.com//Deratiseur/Todd>Todd the super tester guy</a>: all items from Morrowind and Arcanum.  
 - <a href=https://github.com//Deratiseur/IWD_Bonus>IWD Bonus Merchants</a> : Deirdre and Joluv in IWDEE. 
-- <a href=https://github.com//Deratiseur/Interplan>The Interplane</a>: more than 100 original items, over 130 new spells and a lot more. (french only)  
-  
+
+## <ins>Un module complet :</ins>
+- <a href=https://github.com//Deratiseur/Interplan>L'Interplan</a>: (french only)
+  * 170 new items
+  * 160 new spells
+  * 75 new potions
+  * 45 blacksmith recipes
+  * secrets, surprises, and more.
+
 ## <ins>Follower pnj mods:</ins>  
 - <a href=https://github.com//Deratiseur/Jazon>Jazon the revenant</a>: the 7th companion that hits hard, resists everything and follows you everywhere.
 - <a href=https://github.com//Deratiseur/Gilbertus>Kri'Binn the half-mechanical spider</a>: the 7th invulnerable (or almost) companion who can consume potions.
