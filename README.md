@@ -12,8 +12,12 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/Archery>Au bonheur du tireur</a> : tout ce qu'il faut pour les tireurs/lanceurs.  
 - <a href=https://github.com//Deratiseur/Todd>Todd, le super Gars Testeur</a> : tous les objets de Morrowind et Arcanum.  
 - <a href=https://github.com//Deratiseur/IWD_Bonus>IWD Bonus Merchants</a> : Deirdre et Joluv dans IWDEE.
-- <a href=https://github.com//Deratiseur/Interplan>L'Interplan</a> : plus de 100 objets originaux, plus de 130 nouveaux sorts et plus encore.  
-  
+
+## <ins>Un madule complet :</ins>
+- <a href=https://github.com//Deratiseur/Interplan>L'Interplan</a> :
+  * plus de 100 objets originaux, plus de 130 nouveaux sorts et plus encore.
+  *  plus de 100 objets originaux, plus de 130 nouveaux sorts et plus encore.
+
 ## <ins>Des mods de pnjs suiveurs :</ins>  
 - <a href=https://github.com//Deratiseur/Jazon>Jazon le revenant</a> : le 7ème compagnon qui tape fort, résiste à tout et vous suit partout.
 - <a href=https://github.com//Deratiseur/Gilbertus>Kri'Binn l'araignée semi-mécanique</a> : le 7ème compagnon invulnérable (ou presque) qui peut consommer des potions.
