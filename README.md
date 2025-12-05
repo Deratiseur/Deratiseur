@@ -68,7 +68,7 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/Todd>Todd the super tester guy</a>: all items from Morrowind and Arcanum.  
 - <a href=https://github.com//Deratiseur/IWD_Bonus>IWD Bonus Merchants</a> : Deirdre and Joluv in IWDEE. 
 
-## <ins>Un module complet :</ins>
+## <ins>Whole mod:</ins>
 - <a href=https://github.com//Deratiseur/Interplan>L'Interplan</a>: (french only)
   * 170 new items
   * 160 new spells
