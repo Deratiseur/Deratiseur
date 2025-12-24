@@ -96,6 +96,9 @@ Here you will find all the modules I have created:
   
 ## <ins>A quest mod:</ins>  
 - <a href=https://github.com//Deratiseur/Ogre>The Ogre and the Gnome, a story of blue</a>: a small quest that will have you searching all over SOA.  
+
+## <ins>An arena mod:</ins>  
+- <a href=https://github.com//Deratiseur/Defis>Telim'Gar's insurmountable challenges: a series of arenas in which you must kill the boss before reaching the final arena.  
   
 ## <ins>A mod designed for modders:</ins>  
 - <a href=https://github.com//Deratiseur/Thingies>Thingies for modders</a>: facilitates in-game testing.  
