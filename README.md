@@ -5,7 +5,8 @@ Ici vous trouverez tous les modules que j'ai crée :
 ## <ins>Des mods de kits :</ins>
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a> : des kits classiques.
 - <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits étonnants.
-- <a href=https://github.com//Deratiseur/CrossClass>CrossClass Powerkits</a> : des combinaisons de kits vanilla pour des résultats cheatés.  
+- <a href=https://github.com//Deratiseur/CrossClass>CrossClass Powerkits</a> : des combinaisons de kits vanilla pour des résultats cheatés.
+- <a href=https://github.com//Deratiseur/Kensai>Spécial : le Kensaisateur</a> : faites de n'importe quel personnage un kensai (en plus de sa classe normale).   
   
 ## <ins>Des mods de magasins :</ins>
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a> : des objets temporaires +4 dans BGEE et IWDEE.  
@@ -29,7 +30,7 @@ Ici vous trouverez tous les modules que j'ai crée :
 ## <ins>Des mods pour gagner en puissance :</ins>
 - <a href=https://github.com//Deratiseur/Combino>Kurosaï le combineur</a> : combinez trois objets +x pour en faire un objet x+1.  
 - <a href=https://github.com//Deratiseur/Oops>Oops le magicien</a> : échangez des parchemins de sorts contre des capacités spéciales.  
-- <a href=https://github.com//Deratiseur/Tatoos>Illo le tatoueur</a> : des tomes version ++.  
+- <a href=https://github.com//Deratiseur/Tatoos>Illo le tatoueur</a> : des tomes version ++.
   
 ## <ins>Des mods de gameplay :</ins>  
 - <a href=https://github.com//Deratiseur/Autorest>Autorest</a> : le repos, c'est du passé. Optionnellement, la mort aussi.
@@ -61,6 +62,7 @@ Here you will find all the modules I have created:
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a>: conventional kits.  
 - <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a>: uncommon kits.
 - <a href=https://github.com//Deratiseur/CrossClass>CrossClass Powerkits</a>: vanilla kits combinations for cheated results.
+- <a href=https://github.com//Deratiseur/Kensai>Special : the Kensaisator</a> : Make any character a kensai (in addition to his normal class).  
   
 ## <ins>Shop mods:</ins>
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a>: temporary items +4 in BGEE and IWDEE.  
