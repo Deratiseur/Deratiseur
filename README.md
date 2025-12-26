@@ -6,7 +6,7 @@ Ici vous trouverez tous les modules que j'ai crée :
 - <a href=https://github.com//Deratiseur/DUKP>Deratiseur's Unused kits Pack (DUKP)</a> : des kits classiques.
 - <a href=https://github.com//Deratiseur/DAWAP>Deratiseur's Absolute Wacky Adventurers Pack (DAWAP)</a> : des kits étonnants.
 - <a href=https://github.com//Deratiseur/CrossClass>CrossClass Powerkits</a> : des combinaisons de kits vanilla pour des résultats cheatés.
-- <a href=https://github.com//Deratiseur/Kensai>Spécial : le Kensaisateur</a> : faites de n'importe quel personnage un kensai (en plus de sa classe normale).   
+- Spcial : <a href=https://github.com//Deratiseur/Kensai>Le Kensaisateur</a> : faites de n'importe quel personnage un kensai (en plus de sa classe normale).   
   
 ## <ins>Des mods de magasins :</ins>
 - <a href=https://github.com//Deratiseur/Illumisfhityroc>Illumisfhityroc</a> : des objets temporaires +4 dans BGEE et IWDEE.  
