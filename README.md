@@ -544,6 +544,11 @@ Facilite les tests ingame.
 <td>&nbsp;</td>
 </tr>
 
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 
 ---
