@@ -172,6 +172,12 @@ Ajoute Deirdre et Joluv dans IWDEE.
 </td>
 </tr>
 
+</table>
+
+---
+
+## <ins>Complete Mod / Module complet</ins>
+
 <table>
 <colgroup>
 <col width="30%">
@@ -185,13 +191,13 @@ Ajoute Deirdre et Joluv dans IWDEE.
 <th>Français</th>
 </tr>
 
+<tr>
+<td valign="top">
+
 <a href="https://github.com/Deratiseur/Interplan"><b>L'Interplan</b></a>
 
 </td>
 <td valign="top">
-
-
-<br><br>
 
 - 170 new items
 - 160 new spells
@@ -201,10 +207,6 @@ Ajoute Deirdre et Joluv dans IWDEE.
 
 </td>
 <td valign="top">
-
-<i>Français uniquement</i>
-
-<br><br>
 
 - 170 nouveaux objets
 - 160 nouveaux sorts
