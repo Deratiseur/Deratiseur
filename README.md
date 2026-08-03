@@ -508,48 +508,25 @@ Une succession d'arènes dans lesquelles vous devez tuer le boss avant d'accéde
 </tr>
 
 </table>
-
----
-
-## <ins>A Mod Designed for Modders / Un mod pensé pour les moddeurs</ins>
-
-<table>
 <tr>
-<th width="30%">Mod</th>
-<th width="35%">English</th>
-<th width="35%">Français</th>
-</tr>
-
-<tr>
-<td valign="top">
+<td valign="top" width="30%">
 
 <a href="https://github.com/Deratiseur/Thingies"><b>Thingies for Modders / Bidules pour les moddeurs</b></a>
 
 </td>
-<td valign="top">
+
+<td valign="top" width="35%">
 
 Facilitates in-game testing.
 
 </td>
-<td valign="top">
+
+<td valign="top" width="35%">
 
 Facilite les tests ingame.
 
 </td>
 </tr>
-
-<tr>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-<td>&nbsp;</td>
-</tr>
-
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
 
 ---
 
