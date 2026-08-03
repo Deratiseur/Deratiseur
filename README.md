@@ -13,7 +13,7 @@ Bienvenue dans mon atelier ! Vous trouverez ici tous les modules que j'ai créé
 
 <tr>
 <td colspan="3">
-<b># Kit Mods / Mods de kits</b>
+<b>Kit Mods / Mods de kits</b>
 </td>
 </tr>
 
