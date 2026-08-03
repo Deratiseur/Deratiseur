@@ -281,7 +281,7 @@ Transformez n'importe quel compagnon en 7ème, 8ème, 9ème (sans limite) compag
 
 ---
 
-## <ins>Power Mods / Mods pour gagner en puissance</ins>
+## <ins>Character Boost Mods / Mods pour gagner en puissance</ins>
 
 <table>
 <tr>
