@@ -180,9 +180,9 @@ Ajoute Deirdre et Joluv dans IWDEE.
 
 <table>
 <colgroup>
-<col width="30%">
-<col width="35%">
-<col width="35%">
+<col style="width:30%">
+<col style="width:35%">
+<col style="width:35%">
 </colgroup>
 
 <tr>
