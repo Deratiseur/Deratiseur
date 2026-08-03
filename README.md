@@ -525,13 +525,13 @@ Une succession d'arènes dans lesquelles vous devez tuer le boss avant d'accéde
 
 <td valign="top" width="35%">
 
-Facilitates in-game testing.
+Facilitates in-game testing.cvdfgshdfhrgfshgfhgf
 
 </td>
 
 <td valign="top" width="35%">
 
-Facilite les tests ingame.
+Facilite les tests ingame.shsgfhfghfgh
 
 </td>
 
