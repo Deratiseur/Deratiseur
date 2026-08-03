@@ -4,17 +4,15 @@ Welcome to my workshop! Here you will find all the modules I have created.
 
 Bienvenue dans mon atelier ! Vous trouverez ici tous les modules que j'ai créés.
 
+---
+
+## <ins>Kit Mods / Mods de kits</ins>
+
 <table>
 <tr>
 <th width="30%">Mod</th>
 <th width="35%">English</th>
 <th width="35%">Français</th>
-</tr>
-
-<tr>
-<td colspan="3">
-<b>Kit Mods / Mods de kits</b>
-</td>
 </tr>
 
 <tr>
@@ -89,10 +87,17 @@ Faites de n'importe quel personnage un Kensai (en plus de sa classe normale).
 </td>
 </tr>
 
+</table>
+
+---
+
+## <ins>Shop Mods / Mods de magasins</ins>
+
+<table>
 <tr>
-<td colspan="3">
-<b>Shop Mods / Mods de magasins</b>
-</td>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -165,10 +170,17 @@ Adds Deirdre and Joluv to IWDEE.
 Ajoute Deirdre et Joluv dans IWDEE.
 
 </td>
-</tr><tr>
-<td colspan="3">
-<b>Complete Mod / Module complet</b>
-</td>
+</tr>
+
+</table>---
+
+## <ins>Complete Mod / Module complet</ins>
+
+<table>
+<tr>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -206,9 +218,22 @@ Ajoute Deirdre et Joluv dans IWDEE.
 </tr>
 
 <tr>
-<td colspan="3">
-<b>Follower NPC Mods / Mods de PNJs suiveurs</b>
-</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+</table>
+
+---
+
+## <ins>Follower NPC Mods / Mods de PNJs suiveurs</ins>
+
+<table>
+<tr>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -265,10 +290,17 @@ Transformez n'importe quel compagnon en 7ème, 8ème, 9ème (sans limite) compag
 </td>
 </tr>
 
+</table>
+
+---
+
+## <ins>Power Mods / Mods pour gagner en puissance</ins>
+
+<table>
 <tr>
-<td colspan="3">
-<b>Power Mods / Mods pour gagner en puissance</b>
-</td>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -323,10 +355,17 @@ Tomes in a ++ version.
 Des tomes version ++.
 
 </td>
-</tr><tr>
-<td colspan="3">
-<b>Gameplay Mods / Mods de gameplay</b>
-</td>
+</tr>
+
+</table>---
+
+## <ins>Gameplay Mods / Mods de gameplay</ins>
+
+<table>
+<tr>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -365,10 +404,17 @@ Changez les tables d'XP des classes pour progresser plus ou moins vite.
 </td>
 </tr>
 
+</table>
+
+---
+
+## <ins>Mods Designed for Other Mods / Mods pensés pour d'autres mods</ins>
+
+<table>
 <tr>
-<td colspan="3">
-<b>Mods Designed for Other Mods / Mods pensés pour d'autres mods</b>
-</td>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -407,10 +453,17 @@ Permet d'installer sur IWDEE des mods prévus pour BG2EE.
 </td>
 </tr>
 
+</table>
+
+---
+
+## <ins>Quest Mod / Mod de quête</ins>
+
+<table>
 <tr>
-<td colspan="3">
-<b>Quest Mod / Mod de quête</b>
-</td>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -431,10 +484,17 @@ Une petite quête qui vous fera chercher dans tout SOA.
 </td>
 </tr>
 
+</table>
+
+---
+
+## <ins>Arena Mod / Mod d'arènes</ins>
+
+<table>
 <tr>
-<td colspan="3">
-<b>Arena Mod / Mod d'arènes</b>
-</td>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -455,10 +515,17 @@ Une succession d'arènes dans lesquelles vous devez tuer le boss avant d'accéde
 </td>
 </tr>
 
+</table>
+
+---
+
+## <ins>A Mod Designed for Modders / Un mod pensé pour les moddeurs</ins>
+
+<table>
 <tr>
-<td colspan="3">
-<b>A Mod Designed for Modders / Un mod pensé pour les moddeurs</b>
-</td>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
@@ -480,25 +547,32 @@ Facilite les tests ingame.
 </tr>
 
 <tr>
-<td colspan="3">
-<b>You Want More Mods? / Vous voulez plus de mods ?</b>
-</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+
+</table>
+
+---
+
+## <ins>You Want More Mods? / Vous voulez plus de mods ?</ins>
+
+<table>
+<tr>
+<th width="50%">English</th>
+<th width="50%">Français</th>
 </tr>
 
 <tr>
 <td valign="top">
 
-<a href="https://github.com/Plutonium-X"><b>Plutonium_X</b></a>
+On the <a href="https://github.com/Plutonium-X">Plutonium_X</a> repository (in French), you will find an anthology of old BG2 mods updated for BG2EE and EET.
 
 </td>
 <td valign="top">
 
-On the Plutonium_X repository (in French), you will find an anthology of old BG2 mods updated for BG2EE and EET.
-
-</td>
-<td valign="top">
-
-Sur le dépôt de Plutonium_X, vous trouverez un florilège d'anciens mods pour BG2 mis à jour pour BG2EE et EET.
+Sur le dépôt de <a href="https://github.com/Plutonium-X">Plutonium_X</a>, vous trouverez un florilège d'anciens mods pour BG2 mis à jour pour BG2EE et EET.
 
 </td>
 </tr>
