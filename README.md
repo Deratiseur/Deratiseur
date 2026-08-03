@@ -172,22 +172,24 @@ Ajoute Deirdre et Joluv dans IWDEE.
 </td>
 </tr>
 
-<table style="table-layout: fixed; width: 100%;">
-<tr>
-<th width="30%">Mod</th>
-<th width="35%">English</th>
-<th width="35%">Français</th>
-</tr>
+<table>
+<colgroup>
+<col width="30%">
+<col width="35%">
+<col width="35%">
+</colgroup>
 
 <tr>
-<td valign="top">
+<th>Mod</th>
+<th>English</th>
+<th>Français</th>
+</tr>
 
 <a href="https://github.com/Deratiseur/Interplan"><b>L'Interplan</b></a>
 
 </td>
 <td valign="top">
 
-<i>French only</i>
 
 <br><br>
 
