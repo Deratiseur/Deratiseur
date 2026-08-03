@@ -507,8 +507,16 @@ Une succession d'arènes dans lesquelles vous devez tuer le boss avant d'accéde
 </td>
 </tr>
 
-</table>
+<table>
+
 <tr>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
+</tr>
+
+<tr>
+
 <td valign="top" width="30%">
 
 <a href="https://github.com/Deratiseur/Thingies"><b>Thingies for Modders / Bidules pour les moddeurs</b></a>
@@ -526,7 +534,10 @@ Facilitates in-game testing.
 Facilite les tests ingame.
 
 </td>
+
 </tr>
+
+</table>
 
 ---
 
