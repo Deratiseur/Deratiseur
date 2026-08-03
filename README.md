@@ -179,7 +179,6 @@ Ajoute Deirdre et Joluv dans IWDEE.
 | Mod | English | Français |
 |---|---|---|
 | <a href="https://github.com/Deratiseur/Interplan"><b>L'Interplan</b></a> | <i>French only</i><br><br>• 170 new items<br>• 160 new spells<br>• 75 new potions<br>• 45 blacksmith recipes<br>• Secrets, surprises, and much more. | <i>Français uniquement</i><br><br>• 170 nouveaux objets<br>• 160 nouveaux sorts<br>• 75 nouvelles potions<br>• 45 recettes de forgeron<br>• Des secrets, des surprises et encore d'autres choses. |
-
 ---
 
 ## <ins>Follower NPC Mods / Mods de PNJs suiveurs</ins>
