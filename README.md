@@ -194,7 +194,7 @@ Ajoute Deirdre et Joluv dans IWDEE.
 <tr>
 <td valign="top">
 
-<a href="https://github.com/Deratiseur/Interplan"><b>The Interplan / L'Interplan</b></a>
+<a href="https://github.com/Deratiseur/Interplan"><b>The Interplan / L'Interplandgsdgsdgfdgdfg</b></a>
 
 </td>
 <td valign="top">
