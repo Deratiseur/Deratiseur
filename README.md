@@ -179,46 +179,41 @@ Ajoute Deirdre et Joluv dans IWDEE.
 ## <ins>Complete Mod / Module complet</ins>
 
 <table>
-<colgroup>
-<col style="width:30%">
-<col style="width:35%">
-<col style="width:35%">
-</colgroup>
-
 <tr>
-<th>Mod</th>
-<th>English</th>
-<th>Français</th>
+<th width="30%">Mod</th>
+<th width="35%">English</th>
+<th width="35%">Français</th>
 </tr>
 
 <tr>
 <td valign="top">
 
-<a href="https://github.com/Deratiseur/Interplan"><b>The Interplan / L'Interplandgsdgsdgfdgdfg</b></a>
+<a href="https://github.com/Deratiseur/Interplan"><b>The Interplan, a shop dedicated to magic / L'Interplan, un magasin dédié à la magie</b></a>
 
 </td>
 <td valign="top">
 
-- 170 new items
-- 160 new spells
-- 75 new potions
-- 45 blacksmith recipes
-- Secrets, surprises, and much more.
+* 170 new items
+* 160 new spells
+* 75 new potions
+* 45 blacksmith recipes
+* Secrets, surprises, and much more.
 
 </td>
 <td valign="top">
 
-- 170 nouveaux objets
-- 160 nouveaux sorts
-- 75 nouvelles potions
-- 45 recettes de forgeron
-- Des secrets, des surprises et encore d'autres choses.
+* 170 nouveaux objets
+* 160 nouveaux sorts
+* 75 nouvelles potions
+* 45 recettes de forgeron
+* Des secrets, des surprises et encore d'autres choses.
 
 </td>
 </tr>
 
 </table>
 
+---
 ## <ins>Follower NPC Mods / Mods de PNJs suiveurs</ins>
 
 <table>
@@ -349,7 +344,9 @@ Des tomes version ++.
 </td>
 </tr>
 
-</table>---
+</table>
+
+---
 
 ## <ins>Gameplay Mods / Mods de gameplay</ins>
 
@@ -399,7 +396,6 @@ Changez les tables d'XP des classes pour progresser plus ou moins vite.
 </table>
 
 ---
-
 ## <ins>Mods Designed for Other Mods / Mods pensés pour d'autres mods</ins>
 
 <table>
@@ -507,8 +503,13 @@ Une succession d'arènes dans lesquelles vous devez tuer le boss avant d'accéde
 </td>
 </tr>
 
-<table>
+</table>
 
+---
+
+## <ins>A Mod Designed for Modders / Un mod pensé pour les moddeurs</ins>
+
+<table>
 <tr>
 <th width="30%">Mod</th>
 <th width="35%">English</th>
@@ -516,25 +517,21 @@ Une succession d'arènes dans lesquelles vous devez tuer le boss avant d'accéde
 </tr>
 
 <tr>
-
-<td valign="top" width="30%">
+<td valign="top">
 
 <a href="https://github.com/Deratiseur/Thingies"><b>Thingies for Modders / Bidules pour les moddeurs</b></a>
 
 </td>
+<td valign="top">
 
-<td valign="top" width="35%">
-
-Facilitates in-game testing.cvdfgshdfhrgfshgfhgf
-
-</td>
-
-<td valign="top" width="35%">
-
-Facilite les tests ingame.shsgfhfghfgh
+Facilitates in-game testing with useful tools for modders.
 
 </td>
+<td valign="top">
 
+Facilite les tests en jeu grâce à des outils utiles pour les moddeurs.
+
+</td>
 </tr>
 
 </table>
