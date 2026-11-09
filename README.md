@@ -193,19 +193,19 @@ Ajoute Deirdre et Joluv dans IWDEE.
 </td>
 <td valign="top">
 
-* 170 new items
-* 160 new spells
-* 75 new potions
-* 45 blacksmith recipes
+* 190 new items
+* 180 new spells
+* 80 new potions
+* 50 blacksmith recipes
 * Secrets, surprises, and much more.
 
 </td>
 <td valign="top">
 
-* 170 nouveaux objets
-* 160 nouveaux sorts
-* 75 nouvelles potions
-* 45 recettes de forgeron
+* 190 nouveaux objets
+* 180 nouveaux sorts
+* 80 nouvelles potions
+* 50 recettes de forgeron
 * Des secrets, des surprises et encore d'autres choses.
 
 </td>
