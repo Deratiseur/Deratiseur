@@ -339,7 +339,7 @@ Clerics, druids, shamans : exchange life points for arcane spells and memorisati
 </td>
 <td valign="top">
 
-Clercs, druides, chamans : échangez des points de vie contre des sorts arcaniques et des capacité de mémorisation.
+Clercs, druides, chamans : échangez des points de vie contre des sorts arcaniques et des capacités de mémorisation.
 
 </td>
 </tr>
