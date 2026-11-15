@@ -329,6 +329,24 @@ Exchange spell scrolls for special abilities.
 <tr>
 <td valign="top">
 
+<a href="https://github.com/Deratiseur/Urkodoel"><b>Urkodoël</b></a>
+
+</td>
+<td valign="top">
+
+Clerics, druids, shamans : exchange life points for arcane spells and memorisation slots.
+
+</td>
+<td valign="top">
+
+Clercs, druides, chamans : échangez des points de vie contre des sorts arcaniques et des capacité de mémorisation.
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
 <a href="https://github.com/Deratiseur/Tatoos"><b>Illo the Tattoo Artist / Illo le tatoueur</b></a>
 
 </td>
